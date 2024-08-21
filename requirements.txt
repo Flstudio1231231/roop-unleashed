@@ -6,7 +6,8 @@ opencv-python==4.9.0.80
 onnx==1.16.0
 insightface==0.7.3
 psutil==5.9.6
-torch==2.1.2+cu118torch==2.1.2
+torch==2.1.2+cu118
+torch==2.1.2
 torchvision==0.16.2+cu118
 torchvision==0.16.2
 onnxruntime==1.17.1
