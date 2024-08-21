@@ -11,7 +11,7 @@ torch==2.1.2
 torchvision==0.16.2+cu118
 torchvision==0.16.2
 onnxruntime==1.17.1
-onnxruntime-silicon==1.16.3
+onnxruntime-silicon
 onnxruntime-gpu==1.17.1
 tqdm==4.66.4
 ftfy
