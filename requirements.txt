@@ -1,0 +1,17 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+
+numpy==1.26.4
+gradio==4.38.1
+opencv-python==4.9.0.80
+onnx==1.16.0
+insightface==0.7.3
+psutil==5.9.6
+torch==2.1.2+cu118torch==2.1.2
+torchvision==0.16.2+cu118
+torchvision==0.16.2
+onnxruntime==1.17.1
+onnxruntime-silicon==1.16.3
+onnxruntime-gpu==1.17.1tqdm==4.66.4
+ftfy
+regex
+pyvirtualcam
